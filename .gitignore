@@ -48,3 +48,7 @@ override.tf.json
 terraform.rc
 crash.log
 crash.*.log
+.terraform/
+Porte-clés/
+*.tfstate
+*.backup
